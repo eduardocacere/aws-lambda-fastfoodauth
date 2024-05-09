@@ -1,2 +1,2 @@
 # aws-lambda-fastfoodauth
-Serviço lambda responsavel pelo gerenciamento de credenciais 
+Serviço lambda responsavel pelo gerenciamento de credenciais
